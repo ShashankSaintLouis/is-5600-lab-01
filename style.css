@@ -98,7 +98,6 @@
  /* Styling the cards */
  .card {
      float: left;
-     display: inline-block;
      width: calc(33% - 10px);
      margin: 10px 5px;
      background-color: white;
